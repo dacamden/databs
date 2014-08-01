@@ -1,0 +1,27 @@
+.ui-widget {
+font-family: Arial, sans-serif;
+}
+
+#header {
+margin-top: 20px;
+    margin-left: 50px;
+        margin-bottom: 20px;
+}
+
+#tabs {
+  margin-left: 50px;
+margin-right: 50px;
+}
+
+.ui-widget-header{
+    border: 0px;
+    background-image: none;
+    background-color: #ededed
+}
+
+#ui-id-1.ui-tabs-anchor, #ui-id-2.ui-tabs-anchor, #ui-id-3.ui-tabs-anchor{
+background-color: #ededed;
+cursor: text;
+color: #0061A6;
+    
+}
